@@ -1,0 +1,9 @@
+Inicio    
+    1-Acordo;
+    2-Abro os olhos;
+    3-Me levanto;
+    4-Dobro o corbertor;
+    5-Vou ao banheiro;
+    6-escovo os dentes;
+    7-vou para a cozinha;
+fim
