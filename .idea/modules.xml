@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modulo-10/Modulo-10.iml" filepath="$PROJECT_DIR$/Modulo-10/Modulo-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-11/Modulo-11.iml" filepath="$PROJECT_DIR$/Modulo-11/Modulo-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-12/Modulo-12.iml" filepath="$PROJECT_DIR$/Modulo-12/Modulo-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-13/Modulo-13.iml" filepath="$PROJECT_DIR$/Modulo-13/Modulo-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-14/Modulo-14.iml" filepath="$PROJECT_DIR$/Modulo-14/Modulo-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-7/Modulo-7.iml" filepath="$PROJECT_DIR$/Modulo-7/Modulo-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-8/Modulo-8.iml" filepath="$PROJECT_DIR$/Modulo-8/Modulo-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo-9/Modulo-9.iml" filepath="$PROJECT_DIR$/Modulo-9/Modulo-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroProjeto/PrimeiroProjeto.iml" filepath="$PROJECT_DIR$/PrimeiroProjeto/PrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tarefas-ebac-Giovane.iml" filepath="$PROJECT_DIR$/.idea/tarefas-ebac-Giovane.iml" />
+    </modules>
+  </component>
+</project>
